@@ -1,7 +1,7 @@
 # USKShopping Mart
 
 ## Live Demo
-Access the live demo of the USKShopping Mart application here: [USKShopping Mart Live Demo](https://your-live-demo-link.com)
+Access the live demo of the USKShopping Mart application here: [USKShopping Mart Live Demo](https://uskshoppingmart.netlify.app/)
 
 ## Introduction
 The USKShopping Mart application is a comprehensive platform designed to provide a seamless shopping experience. With an intuitive interface, users can browse various products, add items to their cart, and manage their cart effectively.
@@ -48,7 +48,7 @@ usk-shopping-mart/
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ulaganathan0709/usk-shopping-mart
+   git clone https://github.com/Ulaganathan0709/my-cart-app
 
 ## Contributing
 Contributions to the USKShopping Mart application are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
